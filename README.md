@@ -25,12 +25,12 @@ For some reason, we can omit element's start tag or end tag like this (comply wi
 var optionalTags = require('optional-tags')
 
 // recommend
-var safeTags = new optionalTags()
+var safeTags = optionalTags()
 console.log( 'safe start tags: ', safeTags.starts.join(', ') )
 console.log( 'safe end tags: ', safeTags.join(', ') )
 
 // recommend, but make sure you don't use any comments or space character
-var radicalTags = new optionalTags('radical')
+var radicalTags = optionalTags('radical')
 console.log( 'open start tags: ', radicalTags.starts.join(', ') )
 console.log( 'open end tags: ', radicalTags.ends.join(', ') )
 ```
