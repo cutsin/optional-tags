@@ -25,7 +25,7 @@ For some reason, we can omit element's start tag or end tag like this (comply wi
 var optionalTags = require('optional-tags')
 
 // recommend
-var safeTags = optionalTags()
+var safeTags = optionalTags(true) // or 'safe', or undefined
 console.log( 'safe start tags: ', safeTags.starts.join(', ') )
 console.log( 'safe end tags: ', safeTags.join(', ') )
 

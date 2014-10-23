@@ -1,6 +1,6 @@
 {
   "name": "optional-tags",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Array of \"optional tags\" defined by the HTML specification.",
   "main": "index.js",
   "keywords": [
