@@ -41,9 +41,9 @@ console.log( 'open end tags: ', radicalTags.ends.join(', ') )
 
 [npm-image]: https://img.shields.io/npm/v/optional-tags.svg?style=flat
 [npm-url]: https://npmjs.org/package/optional-tags
-[travis-image]: https://img.shields.io/travis/jshttp/optional-tags.svg?style=flat
-[travis-url]: https://travis-ci.org/jshttp/optional-tags
-[coveralls-image]: https://img.shields.io/coveralls/jshttp/optional-tags.svg?style=flat
-[coveralls-url]: https://coveralls.io/r/jshttp/optional-tags
+[travis-image]: https://travis-ci.org/cutsin/optional-tags.svg
+[travis-url]: https://travis-ci.org/cutsin/optional-tags
+[coveralls-image]: https://img.shields.io/coveralls/cutsin/optional-tags.svg?style=flat
+[coveralls-url]: https://coveralls.io/r/cutsin/optional-tags
 [downloads-image]: https://img.shields.io/npm/dm/optional-tags.svg?style=flat
 [downloads-url]: https://npmjs.org/package/optional-tags
