@@ -1,6 +1,6 @@
 {
   "name": "optional-tags",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Array of \"optional tags\" defined by the HTML specification.",
   "main": "index.js",
   "keywords": [
@@ -9,7 +9,7 @@
     "tags"
   ],
   "repository": "cutsin/optional-tags",
-  "author": "Cutsin",
+  "author": "Cutsin <cutsin@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cutsin/optional-tags/issues"
